@@ -105,3 +105,29 @@ fi
 
 Restart terminal for the changes to take effect.
 
+### Additional Softwares:
+
+#### Backups:
+Rsync
+FreeFileSync
+
+#### Utilities:
+Office: Libre
+Notes: Standard Notes
+Ebook: Calibre
+FTP: FileZilla
+
+#### Creativity:
+Photoshop: GIMP
+Audio Editing: Audacity
+
+#### Communication:
+Wire
+Signal Desktop
+
+#### Security:
+Container Encryption: Veracrypt
+CCleaner: Bleachbit
+Eraser: Nautilus
+Metadata Anonymization Toolkit
+Virtual Box

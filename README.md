@@ -11,13 +11,13 @@ My Fedora OS Post Installation Steps. Use it at your own risk. Thanks.
 
 or 
 
-`sudo dnf upgrade --refresh -y`
+`$ sudo dnf upgrade --refresh -y`
 
 ### Add RPM Repositories:
 ```shell
-sudo dnf install --nogpgcheck https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-24.noarch.rpm
+$ sudo dnf install --nogpgcheck https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-24.noarch.rpm
 
-sudo dnf install --nogpgcheck https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-24.noarch.rpm
+$ sudo dnf install --nogpgcheck https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-24.noarch.rpm
 ```
 
 ### Accessibility Tools:
@@ -46,29 +46,30 @@ To mount exfat file system files and to view the exfat files you need exfat-util
 `$ sudo dnf install keepassxc --refresh -y`
 
 #### VLC Video Player:
-`sudo dnf install vlc --refresh -y`
+`$ sudo dnf install vlc --refresh -y`
 
 #### FireJail and FireTools:
 FireJail application helps execute applications under an isolated sandbox. The application will not have access to any unwanted files and resources when running under FireJail. It is kinda like a little Virtual Machine.
 FireTools is the GUI.
 
 `$ sudo dnf install firejail`
+
 After installation, try below command to run firefox using FireJail.
 
 `$ firejail firefox`
 
 `$ sudo dnf install firetools`
 
-#### ThunderBird eMail Client:
+#### ThunderBird email Client:
 
 Love ThunderBird email client. Have been using it for years and the best part is it is Open-source and Cross platform. Can't beat that, can you?
 
-`$ ThunderBird Mail Client`
+`$ sudo dnf install thunderbird --refresh -y`
 
 #### Install Zipping Softwares:
 Below command includes p7zip (7zip), plugins and unrar applications.
 
-`sudo dnf install p7zip p7zip-plugins unrar`
+`$ sudo dnf install p7zip p7zip-plugins unrar`
 
 
 ### Uninstall Bloat Softwares:

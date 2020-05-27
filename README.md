@@ -108,26 +108,26 @@ Restart terminal for the changes to take effect.
 ### Additional Softwares:
 
 #### Backups:
-Rsync
-FreeFileSync
+* Rsync
+* FreeFileSync
 
 #### Utilities:
-Office: Libre
-Notes: Standard Notes
-Ebook: Calibre
-FTP: FileZilla
+* Office: Libre
+* Notes: Standard Notes
+* Ebook: Calibre
+* FTP: FileZilla
 
 #### Creativity:
-Photoshop: GIMP
-Audio Editing: Audacity
+* Photoshop: GIMP
+* Audio Editing: Audacity
 
 #### Communication:
-Wire
-Signal Desktop
+* Wire
+* Signal Desktop
 
 #### Security:
-Container Encryption: Veracrypt
-CCleaner: Bleachbit
-Eraser: Nautilus
-Metadata Anonymization Toolkit
-Virtual Box
+* Container Encryption: Veracrypt
+* CCleaner: Bleachbit
+* Eraser: Nautilus
+* Metadata Anonymization Toolkit
+* Virtual Box

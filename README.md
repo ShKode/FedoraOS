@@ -105,6 +105,14 @@ fi
 
 Restart terminal for the changes to take effect.
 
+#### Terminator application to run Terminal Commands:
+
+Search command with check for all relevant searches.
+
+`sudo dnf search terminal`
+
+`sudo dnf install terminator --refresh -y`
+
 ### Additional Softwares:
 
 #### Backups:
